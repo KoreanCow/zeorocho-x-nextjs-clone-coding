@@ -1,7 +1,7 @@
-export default function Home() {
+export default function Page() {
   return (
-    <div>
-
-    </div>
-  );
+    <main>
+      게시글상세
+    </main>
+  )
 }
